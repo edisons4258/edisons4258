@@ -1,4 +1,6 @@
+![images](https://github.com/edisons4258/edisons4258/assets/141169232/bfe86b0b-5d4c-4614-92c1-2219b71aa804)
 ### Hi there 👋
+
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning about what things github has to offer
