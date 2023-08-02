@@ -1,7 +1,6 @@
 ![download](https://github.com/edisons4258/edisons4258/assets/141169232/0b2b1f0c-2664-49a9-9b17-805b622cb6e9)
 ### Hi there 👋
 
-
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning about what things github has to offer
 - 👯 I’m looking to collaborate on creating a website or an app or something that helps manage depressive thought patterns and behaviors
